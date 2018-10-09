@@ -1,0 +1,3 @@
+[submodule "filabel"]
+	path = filabel
+	url = git@github.com:cvut/filabel.git

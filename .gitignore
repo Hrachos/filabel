@@ -1,2 +1,4 @@
 __venv__
 .idea
+credentials.cfg
+labels.cfg
