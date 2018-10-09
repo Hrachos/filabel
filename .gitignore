@@ -2,3 +2,6 @@ __venv__
 .idea
 credentials.cfg
 labels.cfg
+filabel-testrepo*
+.pytest_cache
+__pycache__
